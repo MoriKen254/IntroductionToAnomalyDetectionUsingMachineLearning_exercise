@@ -1,0 +1,2 @@
+# IntroductionToAnomalyDetectionUsingMachineLearning_exercise
+入門 機械学習による異常検知 ─Rによる実践ガイド─ （コロナ社）を勉強した時のサンプルを入れておく
